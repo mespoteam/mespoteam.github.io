@@ -284,7 +284,6 @@ blockquote p {
 }
 #blog_name {
   display: inline-block;
-  width: 100px;
   vertical-align: top;
 }
 #blog_name a {
@@ -296,7 +295,6 @@ blockquote p {
   text-decoration: none;
   -webkit-transition: all 0.2s ease-in-out;
   transition: all 0.2s ease-in-out;
-  width: 100px;
 }
 #blog_name a:hover {
   color: #000;
