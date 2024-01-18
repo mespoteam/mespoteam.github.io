@@ -495,7 +495,7 @@ blockquote p {
 }
 @media screen and (min-width: 66.67em) {
   #page_main {
-    max-width: 1200px;
+    max-width: 1600px;
   }
 }
 @media (min-width: 34em) {
