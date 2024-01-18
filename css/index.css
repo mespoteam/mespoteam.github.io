@@ -363,7 +363,7 @@ blockquote p {
   outline: none;
 }
 .menus-open .navicon {
-  background: transparent;
+  background: blue;
 }
 .menus-open .navicon::before {
   transform-origin: 50% 50%;
