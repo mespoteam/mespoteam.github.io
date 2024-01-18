@@ -289,7 +289,7 @@ blockquote p {
 }
 #blog_name a {
   display: block;
-  margin: 0 1.6rem;
+  margin: 0 0.6rem;
   padding: 0.8rem 0;
   color: #7a8288;
   font-weight: 600;
