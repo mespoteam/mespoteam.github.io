@@ -323,6 +323,7 @@ blockquote p {
     list-style: none;
     transition: all ease-in-out 0.2s;
     pointer-events: none;
+    width: 100px;
   }
   .menus_items::before {
     display: block;
