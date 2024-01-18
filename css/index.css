@@ -536,8 +536,8 @@ blockquote p {
   height: 40px;
 }
 .author-avatar img {
-  width: 100px;
-  max-width: 110px;
+  width: 150px;
+  height: auto;
 }
 .author-discrip {
   display: table-cell;
