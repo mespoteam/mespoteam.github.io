@@ -296,9 +296,10 @@ blockquote p {
   text-decoration: none;
   -webkit-transition: all 0.2s ease-in-out;
   transition: all 0.2s ease-in-out;
+  text-align: left;
 }
 #blog_name a:hover {
-  color: #000;
+  color: #ffffff;
 }
 @media (max-width: 34em) {
   .menus-open .menus_items {
