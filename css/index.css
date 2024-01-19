@@ -271,16 +271,16 @@ blockquote p {
   -webkit-animation-delay: 0.15s;
   animation-delay: 0.15s;
   z-index: 20;
-  background-color: #2bff00;
+  background-color: #002D72;
 }
 .header_wrap {
-  max-width: 1200px;
+  max-width: 2000px;
   margin-left: auto;
   margin-right: auto;
   clear: both;
   padding: 1.6rem 2rem 1rem;
   font-size: 2rem;
-  background-color: #0000ff;
+  background-color: #002D72;
 }
 #blog_name {
   display: inline-block;
