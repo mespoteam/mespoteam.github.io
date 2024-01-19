@@ -285,7 +285,6 @@ blockquote p {
 #blog_name {
   display: inline-block;
   vertical-align: top;
-  text-align: left;
 }
 #blog_name a {
   display: block;
