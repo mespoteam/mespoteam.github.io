@@ -285,12 +285,14 @@ blockquote p {
 #blog_name {
   display: inline-block;
   vertical-align: top;
+  width: 500px;
+  margin: 100px;
 }
 #blog_name a {
   display: block;
   margin: 0 0.6rem;
   padding: 0.8rem 0;
-  color: #7a8288;
+  color: #ffffff;
   font-weight: 600;
   text-decoration: none;
   -webkit-transition: all 0.2s ease-in-out;
