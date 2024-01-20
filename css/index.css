@@ -289,8 +289,8 @@ blockquote p {
 }
 #blog_name a {
   display: block;
-  margin: 0 0.6rem;
-  padding: 0.2rem 0;
+  margin: 0 0;
+  padding: 0 0;
   color: #ffffff;
   font-weight: 600;
   text-decoration: none;
