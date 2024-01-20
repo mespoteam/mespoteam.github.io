@@ -750,6 +750,7 @@ blockquote p {
     font-size: 1.4rem;
     margin-top: 8px;
     margin-bottom: 10px;
+    text-decoration: none;
   }
   .author-links {
     display: block;
