@@ -555,6 +555,7 @@ blockquote p {
   font-size: 5rem;
   margin: 0.3rem 0;
   text-align: center;
+  text-decoration: none;
 }
 .author-links {
   display: table-cell;
@@ -692,7 +693,7 @@ blockquote p {
   color: #096494 !important;
   display: inline-block;
   position: relative;
-  font-size: 1.4rem;
+  font-size: 20px;
   margin-left: 5.5rem;
 }
 .cv-links i {
