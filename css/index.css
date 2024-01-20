@@ -621,9 +621,9 @@ blockquote p {
   padding-top: 8px;
   padding-left: 10px;
   list-style-type: none;
-  border: 1px solid #f2f3f3;
+  border: 1px solid #002D72;
   border-radius: 4px;
-  background: #fff;
+  background: #002D72;
   z-index: -1;
   box-shadow: 0 0 10px rgba(0,0,0,0.25);
   cursor: default;
@@ -656,7 +656,7 @@ blockquote p {
   text-rendering: auto;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  color: #000;
+  color: #002D72;
   width: 1.28571em;
   text-align: center;
   -webkit-transition: all 0.2s ease-in-out;
@@ -665,7 +665,7 @@ blockquote p {
 .social-icons .fa:hover,
 .social-icons .fas:hover,
 .social-icons .fab:hover {
-  color: #c62641;
+  color: #002D72;
 }
 .is-open .social-icons {
   visibility: visible;
@@ -679,7 +679,7 @@ blockquote p {
   transition: all 0.2s ease-in-out;
 }
 .social-links .e-social-link {
-  color: #000;
+  color: #002D72;
 }
 .social-links .e-social-link .fa,
 .social-links .e-social-link .fas,
