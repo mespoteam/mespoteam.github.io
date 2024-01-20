@@ -296,7 +296,7 @@ blockquote p {
   text-decoration: none;
   -webkit-transition: all 0.2s ease-in-out;
   transition: all 0.2s ease-in-out;
-  text-align: left;
+  text-align: center;
 }
 #blog_name a:hover {
   color: #ffffff;
