@@ -533,11 +533,11 @@ blockquote p {
 .author-avatar {
   display: table-cell;
   vertical-align: top;
-  width: 400px;
+  width: 500px;
   height: auto;
 }
 .author-avatar img {
-  width: 400px;
+  width: 500px;
   height: auto;
 }
 .author-discrip {
