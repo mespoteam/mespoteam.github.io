@@ -730,7 +730,7 @@ blockquote p {
   }
   .author-avatar {
     display: block;
-    width: auto;
+    width: 500px;
     height: auto;
     text-align: center;
   }
